@@ -1,2 +1,3 @@
-# stems
-Stems is a open-source application that lets you create stems off of a word.
+# Stems test branch
+This is the stems test branch. Beta versions will be uploaded here. If you find any issues, please report them.
+Thank you :)
